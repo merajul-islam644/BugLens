@@ -1,0 +1,115 @@
+{
+  "collectionName": "Environments",
+  "fields": [
+    {
+      "name": "projectId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "workspaceId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "name",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "baseUrl",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "type",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "Development, Test, Staging, Production or Custom",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "allowedHosts",
+      "type": "String",
+      "isArray": true,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "allowedPaths",
+      "type": "String",
+      "isArray": true,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "browserDefault",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "buildLabel",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    }
+  ],
+  "schemaName": "Environment",
+  "schemaType": 1
+}

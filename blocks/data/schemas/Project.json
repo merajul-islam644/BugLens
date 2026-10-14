@@ -1,0 +1,91 @@
+{
+  "collectionName": "Projects",
+  "fields": [
+    {
+      "name": "name",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "Unique within the workspace",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "description",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "owner",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "tags",
+      "type": "String",
+      "isArray": true,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "repositoryUrl",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "Plain link, never fetched",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "workspaceId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "archived",
+      "type": "Boolean",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    }
+  ],
+  "schemaName": "Project",
+  "schemaType": 1
+}

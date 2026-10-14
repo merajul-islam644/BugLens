@@ -1,0 +1,139 @@
+{
+  "collectionName": "HypothesisItems",
+  "fields": [
+    {
+      "name": "workspaceId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "investigationId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "issueId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "text",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "evidenceIds",
+      "type": "String",
+      "isArray": true,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "missingEvidence",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "nextStep",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "confidence",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "Possible, Likely or Unverified",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "authorId",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "authorName",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    },
+    {
+      "name": "time",
+      "type": "String",
+      "isArray": false,
+      "enumValues": [],
+      "isPIIData": false,
+      "isUniqueData": false,
+      "description": "",
+      "requiredOn": "None",
+      "fields": [],
+      "validationRule": null
+    }
+  ],
+  "schemaName": "HypothesisItem",
+  "schemaType": 1
+}

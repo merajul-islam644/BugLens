@@ -1,0 +1,17 @@
+{
+  "project": {
+    "tenantId": "D16a9e54a992d4dfb8097962f027fc954",
+    "apiUrl": "https://blocksapi.slsblx.com",
+    "appDomain": "https://D16a9e54a992d4dfb8097962f027fc954-f7b21a23-c0d0-4ce9-ae90-144c217d8bc0.slsblx.com"
+  },
+  "data": {
+    "schemas": "blocks/data/schemas",
+    "rules": "blocks/data/rules.json"
+  },
+  "repo": {
+    "branch": "dev",
+    "fullName": "merajul-islam644/BugLens",
+    "provider": "github",
+    "url": "https://github.com/merajul-islam644/BugLens"
+  }
+}
